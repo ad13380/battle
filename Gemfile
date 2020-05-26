@@ -8,6 +8,7 @@ group :development, :test do
   gem 'rspec'
   gem 'simplecov'
   gem 'sinatra'
+  gem 'shotgun'
 end
 
 
